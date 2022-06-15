@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@font-face {
+  font-family: 'Avenir';
+  src: local('Avenir'), url('../fonts/Avenir-Medium.ttf') format('ttf');
+}
+@tailwind utilities;
